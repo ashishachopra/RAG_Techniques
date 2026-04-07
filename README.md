@@ -1,85 +1,16 @@
-**Company Sponsors**
-
-<div align="center">
-
-<table style="border: none; border-collapse: collapse; width: 100%; max-width: 840px; margin: 0 auto; background: transparent; table-layout: fixed;">
-  <tr>
-    <td style="border: none; text-align: center; padding: 16px 24px; width: 33.33%; vertical-align: top;">
-      <a href="https://app.contextual.ai?utm_campaign=rag-techniques&utm_source=diamantai&utm_medium=github&utm_content=notebook" target="_blank" style="text-decoration: none; display: inline-block; transition: transform 0.2s ease;">
-        <img src="images/trimmed_padded_contextual_white.png#gh-light-mode-only" 
-             alt="Contextual AI"
-             style="height: 28px; width: auto; border-radius: 12px; vertical-align: middle; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-        <img src="images/trimmed_padded_contextual_black.png#gh-dark-mode-only" 
-             alt="Contextual AI"
-             style="height: 28px; width: auto; border-radius: 12px; vertical-align: middle; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-      </a>
-    </td>
-    <td style="border: none; text-align: center; padding: 16px 24px; width: 33.33%; vertical-align: middle;">
-      <a href="https://coderabbit.link/nir" target="_blank" style="text-decoration: none; display: inline-block; transition: transform 0.2s ease;">
-        <img src="images/coderabbit_Light_Type_Mark_Orange.png#gh-light-mode-only"
-             alt="CodeRabbit"
-             style="height: 28px; width: auto; border-radius: 12px; vertical-align: middle; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-        <img src="images/coderabbit_Dark_Type_Mark.png#gh-dark-mode-only"
-             alt="CodeRabbit"
-             style="height: 28px; width: auto; border-radius: 12px; vertical-align: middle; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-      </a>
-    </td>
-  </tr>
-</table>
-</div>
-
-
-
-
-
-**Individual Sponsors**
-
-<a href="https://github.com/sponsors/Eisenh"><img src="https://github.com/Eisenh.png" style="border-radius: 50%;" width="64" height="64" alt=""></a>
-
-# Advanced RAG Techniques: Elevating Your Retrieval-Augmented Generation Systems 🚀
-
-Welcome to one of the most comprehensive and dynamic collections of Retrieval-Augmented Generation (RAG) tutorials available today. This repository serves as a hub for cutting-edge techniques aimed at enhancing the accuracy, efficiency, and contextual richness of RAG systems.
-
-## 📫 Stay Updated!
-
-<div align="center">
-<table>
-<tr>
-<td align="center">🚀<br><b>Cutting-edge<br>Updates</b></td>
-<td align="center">💡<br><b>Expert<br>Insights</b></td>
-<td align="center">🎯<br><b>Top 0.1%<br>Content</b></td>
-
-</tr>
-</table>
-
-[![Subscribe to DiamantAI Newsletter](images/subscribe-button.svg)](https://diamantai.substack.com/?r=336pe4&utm_campaign=pub-share-checklist)
-
-*Join over 50,000 AI enthusiasts getting unique cutting-edge insights and free tutorials!* ***Plus, subscribers get exclusive early access and special 33% discounts to my book and the upcoming RAG Techniques course!***
-</div>
-
-
-
-[![DiamantAI's newsletter](images/substack_image.png)](https://diamantai.substack.com/?r=336pe4&utm_campaign=pub-share-checklist)
-
-
 ## Introduction
-
 Retrieval-Augmented Generation (RAG) is revolutionizing the way we combine information retrieval with generative AI. This repository showcases a curated collection of advanced techniques designed to supercharge your RAG systems, enabling them to deliver more accurate, contextually relevant, and comprehensive responses.
-
 Our goal is to provide a valuable resource for researchers and practitioners looking to push the boundaries of what's possible with RAG. By fostering a collaborative environment, we aim to accelerate innovation in this exciting field.
 
 ## Related Projects
+Level up with  **[Agents Towards Production](https://github.com/NirDiamant/agents-towards-production)** repository. It delivers horizontal, code-first tutorials that cover every tool and step in the lifecycle of building production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches, making it the smartest place to start if you're serious about shipping agents to production.
 
-🚀 Level up with my **[Agents Towards Production](https://github.com/NirDiamant/agents-towards-production)** repository. It delivers horizontal, code-first tutorials that cover every tool and step in the lifecycle of building production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches, making it the smartest place to start if you're serious about shipping agents to production.
+Explore **[GenAI Agents Repository](https://github.com/NirDiamant/GenAI_Agents)** to discover a variety of AI agent implementations and tutorials, showcasing how different AI technologies can be combined to create powerful, interactive systems.
 
-🤖 Explore my **[GenAI Agents Repository](https://github.com/NirDiamant/GenAI_Agents)** to discover a variety of AI agent implementations and tutorials, showcasing how different AI technologies can be combined to create powerful, interactive systems.
-
-
-🖋️ Check out my  **[Prompt Engineering Techniques guide](https://github.com/NirDiamant/Prompt_Engineering)** for a comprehensive collection of prompting strategies, from basic concepts to advanced techniques, enhancing your ability to interact effectively with AI language models.
+Check out **[Prompt Engineering Techniques guide](https://github.com/NirDiamant/Prompt_Engineering)** for a comprehensive collection of prompting strategies, from basic concepts to advanced techniques, enhancing ability to interact effectively with AI language models.
 
 
 ## A Community-Driven Knowledge Hub
-
 **This repository grows stronger with your contributions!** Join our vibrant communities - the central hubs for shaping and advancing this project together 🤝
 
 **[Educational AI Subreddit](https://www.reddit.com/r/EducationalAI/)**
@@ -88,17 +19,15 @@ Our goal is to provide a valuable resource for researchers and practitioners loo
 
 Whether you're an expert or just starting out, your insights can shape the future of RAG. Join us to propose ideas, get feedback, and collaborate on innovative techniques. For contribution guidelines, please refer to our **[CONTRIBUTING.md](https://github.com/NirDiamant/RAG_Techniques/blob/main/CONTRIBUTING.md)** file. Let's advance RAG technology together!
 
-🔗 For discussions on GenAI, RAG, or custom agents, or to explore knowledge-sharing opportunities, feel free to **[connect on LinkedIn](https://www.linkedin.com/in/nir-diamant-759323134/)**.
+For discussions on GenAI, RAG, or custom agents, or to explore knowledge-sharing opportunities, feel free to **[connect on LinkedIn](https://www.linkedin.com/in/nir-diamant-759323134/)**.
 
 ## Key Features
-
 - 🧠 State-of-the-art RAG enhancements
 - 📚 Comprehensive documentation for each technique
 - 🛠️ Practical implementation guidelines
 - 🌟 Regular updates with the latest advancements
 
 ## Advanced Techniques
-
 Explore our extensive list of cutting-edge RAG techniques:
 
 | # | Category | Technique | View |
