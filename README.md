@@ -449,19 +449,14 @@ Explore our extensive list of cutting-edge RAG techniques:
 ## 🌟 Special Advanced Technique 🌟
 
 35. **[Sophisticated Controllable Agent for Complex RAG Tasks 🤖](https://github.com/NirDiamant/Controllable-RAG-Agent)**
-
     #### Overview 🔎
     An advanced RAG solution designed to tackle complex questions that simple semantic similarity-based retrieval cannot solve. This approach uses a sophisticated deterministic graph as the "brain" 🧠 of a highly controllable autonomous agent, capable of answering non-trivial questions from your own data.
 
     #### Implementation 🛠️
     • Implement a multi-step process involving question anonymization, high-level planning, task breakdown, adaptive information retrieval and question answering, continuous re-planning, and rigorous answer verification to ensure grounded and accurate responses.
 
-
-
 ## Getting Started
-
 To begin implementing these advanced RAG techniques in your projects:
-
 1. Clone this repository:
    ```
    git clone https://github.com/NirDiamant/RAG_Techniques.git
@@ -471,29 +466,3 @@ To begin implementing these advanced RAG techniques in your projects:
    cd all_rag_techniques/technique-name
    ```
 3. Follow the detailed implementation guide in each technique's directory.
-
-## Contributing
-
-We welcome contributions from the community! If you have a new technique or improvement to suggest:
-
-1. Fork the repository
-2. Create your feature branch: `git checkout -b feature/AmazingFeature`
-3. Commit your changes: `git commit -m 'Add some AmazingFeature'`
-4. Push to the branch: `git push origin feature/AmazingFeature`
-5. Open a pull request
-
-## Contributors
-
-[![Contributors](https://contrib.rocks/image?repo=NirDiamant/RAG_Techniques)](https://github.com/NirDiamant/RAG_Techniques/graphs/contributors)
-
-## License
-
-This project is licensed under a custom non-commercial license - see the [LICENSE](LICENSE) file for details.
-
----
-
-⭐️ If you find this repository helpful, please consider giving it a star!
-
-![](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=main-readme)
-
-Keywords: RAG, Retrieval-Augmented Generation, NLP, AI, Machine Learning, Information Retrieval, Natural Language Processing, LLM, Embeddings, Semantic Search
